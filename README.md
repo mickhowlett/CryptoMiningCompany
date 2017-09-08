@@ -1,0 +1,2 @@
+# CryptoMiningCompany
+CMC webpage
